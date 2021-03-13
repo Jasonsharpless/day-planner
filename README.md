@@ -22,3 +22,9 @@ Each time block is color coded to indicate whether it occurs in the past(gray), 
 Each time block has an input field and save button where users can store their schedule.
 Once it saved, it will store in their local storage.
 This calendar is desktop and mobile compatible.
+
+repository link 
+https://github.com/Jasonsharpless/day-planner
+
+website link
+https://jasonsharpless.github.io/day-planner/
